@@ -1,0 +1,42 @@
+<html>  { background-color: rgb(255, 149, 0) 
+}
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+
+body {
+  background-color: #ff0093;
+  font-family: "Open Sans", sans-serif;
+  padding: 5px 25px 5px 25px;
+  font-size: 18px;
+  color: #afafaf;
+}
+
+h1 {
+  left: 0;
+  line-height: 200px;
+  margin-top: -100px;
+  position: absolute;
+  text-align: center;
+  top: 65%;
+  width: 100%;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+  font-family: "Arial Black", serif;
+  font-size: 40px;
+}
+p {
+  left: 0;
+  line-height: 200px;
+  margin-top: -100px;
+  position: absolute;
+  text-align: center;
+  top: 68%;
+  width: 100%;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: black;
+  font-size: 30px;
+  }
+img {
+Display: block;
+margin: 0 auto;
+}
